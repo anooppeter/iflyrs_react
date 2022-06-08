@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Apple iPhone 13 Pro (128GB) - Sierra Blue",
+        "price": 119900,
+        "description": "A Good Phone",
+        "rating": "4.5",
+        "image":[{
+            "public_id":"",
+            "url": ""
+        }],
+        "category": "Electronics",
+        "seller":"amazon",
+        "stock": 40,
+        "numOfReviews":35,
+        "reviews":[]
+    },
+    {
+        "name": "Redmi 80 cm (32 inches) HD Ready Smart LED TV",
+        "price": 14499,
+        "description": "A Good Tv",
+        "rating": "4",
+        "image":[{
+            "public_id":"",
+            "url": ""
+        }],
+        "category": "TV and Appliences",
+        "seller":"flipkart",
+        "stock": 50,
+        "numOfReviews":51,
+        "reviews":[]
+    },
+    {
+        "name": "U.S. POLO ASSN. Men T-Shirt",
+        "price": 1582,
+        "description": "Good T-Shirt",
+        "rating": "4.5",
+        "image":[{
+            "public_id":"",
+            "url": ""
+        }],
+        "category": "Men",
+        "seller":"Us Polo",
+        "stock": 100,
+        "numOfReviews":64,
+        "reviews":[]
+    }
+]
